@@ -1,4 +1,4 @@
-# RPA_Envio_Whats V1.0
+# RPA_Envio_Whats V1.1
 
 Aplicação RPA desenvolvida em Python com a finalidade de leitura de um arquivo Excel e envio de mensagens pré-progamadas alterando seus principais dados via WhatsApp.
 
