@@ -7,6 +7,8 @@ from win32com.client import Dispatch
 from tkinter import *
 from tkinter import filedialog
 
+#Teste da conexão com o Github 
+
 def ler_arquivo():
     arquivo = filedialog.askopenfilename(initialdir="C:\\RPA\\RPA_Envio_Whats-main", title="Selecione um arquivo", filetypes=(("Planilha do Microsoft Excel", "*.xlsx"),("Planilha do Microsoft Excel","*.xls")))
     
